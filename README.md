@@ -1,4 +1,4 @@
-# Project 4 - Conference Organization App
+# Conference Organization App
 This web application was built for the purpose of managing the creation and organization of user conferences.
 
 The application is deployed on [Google's App Engine][1]. While it includes a front-end for some navigation, emphasis was placed on the API endpoints for manipulating the information contained in the Google [Datastore][2].
